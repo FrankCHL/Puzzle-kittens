@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pitch.md",
+                "file": "Concept-doc.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pitch.md",
+                "file": "Concept-doc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pitch.md",
+                "file": "Concept-doc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pitch.md"
+                "file": "Concept-doc.md"
               }
             }
           }
@@ -160,11 +160,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35f02c34ac1db00f",
+  "active": "1ac9f805a19ea3fc",
   "lastOpenFiles": [
-    "Concept-doc.md",
-    "Pitch.md",
     "GDD.md",
+    "Concept-doc.md",
+    "Images",
+    "Images/Pasted image 20240212155127.png",
+    "Pitch.md",
     "Welcome.md",
     "create a link.md"
   ]
